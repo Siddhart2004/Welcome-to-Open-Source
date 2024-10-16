@@ -69,6 +69,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Siddhart2004">
+                    <img src="https://avatars.githubusercontent.com/u/90645484?v=4" width="100px;" 
+                    alt="Siddharth A"/>
+                    <br />
+                    <sub><b>Siddharth A</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
@@ -1714,14 +1722,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
                     <br />
                     <sub><b>Kaone Keboetseng</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Siddhart2004">
-                    <img src="https://avatars.githubusercontent.com/u/90645484?v=4" width="100px;" 
-                    alt="Siddharth A"/>
-                    <br />
-                    <sub><b>Siddharth A</b></sub>
                 </a>
             </td>
         </tr>
