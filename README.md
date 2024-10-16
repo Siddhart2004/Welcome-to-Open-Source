@@ -1716,6 +1716,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Siddhart2004">
+                    <img src="https://avatars.githubusercontent.com/u/90645484?v=4" width="100px;" 
+                    alt="Siddharth A"/>
+                    <br />
+                    <sub><b>Siddharth A</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
